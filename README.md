@@ -2,4 +2,5 @@
 This is a github repo test
 ## Authors
 
-Lisa, Tatum, Kayla
+Lisa, Tatum, and Kayla
+
